@@ -1,11 +1,22 @@
 {
-  "name": "nodejs-helloworld",
+  "name": "do101",
   "version": "1.0.0",
-  "description": "Hello World!",
+  "description": "",
   "main": "app.js",
-  "author": "Red Hat Training",
-  "license": "ASL",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/jedaboy/DO101-apps.git"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "express": "~4.14.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/jedaboy/DO101-apps/issues"
+  },
+  "homepage": "https://github.com/jedaboy/DO101-apps#readme"
 }
